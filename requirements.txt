@@ -1,0 +1,5 @@
+discord.py
+requests
+pytz
+flask
+python-dotenv
