@@ -104,7 +104,7 @@ async def on_ready():
 
 @bot.command()
 async def test(ctx):
-    await ctx.send("Đang chạy thử lệnh Recommend...")
+    await ctx.send("Đang chạy thử ...")
     await send_daily_content(ctx.channel)
 
 # --- HẸN GIỜ (08:00 VN) ---
